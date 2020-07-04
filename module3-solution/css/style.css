@@ -8,7 +8,16 @@ h1 {
     font-weight: bold;
 }
 h3{
-    padding-top: 10px;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: black;
+	color: firebrick;
 }
 
 section {
@@ -34,17 +43,17 @@ hr{
 }
 
 #nav-list {
-  background-color: white;
-    color: black;
-    border: 1px solid black;
+  background-color: black;
+    color: white;
 }
 #nav-list {
   margin-top: auto;
 }
 #nav-list a {
-  color: darkblue;
+  color: white;
   text-align: center;
 }
+
 
 
   #collapsable-nav a{ /* Collapsed nav menu glyph */
@@ -78,7 +87,7 @@ hr{
 }
 
 .item {
-  color: black;
+  color: white;
   font-size: 1.2em;
 }
 .dis{
